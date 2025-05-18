@@ -9,7 +9,7 @@ class HindiTranslations:
     WRONG_VALUE_ERROR = "❌ {{ variable_name }} वेरिएबल के लिए अमान्य मान दर्ज किया गया है।"
 
     START_MSG = (
-        "👋 नमस्ते! मैं **Mesh Rename Bot** हूँ।\n\n"
+        "👋 नमस्ते! मैं **MAX Rename Bot** हूँ।\n\n"
         "🌟 ओपन सोर्स: [TG](https://t.me/Max_Leech_Zone_Update)\n"
         "🚀 आप अपनी खुद की इंस्टेंस डिप्लॉय कर सकते हैं!"
     )
