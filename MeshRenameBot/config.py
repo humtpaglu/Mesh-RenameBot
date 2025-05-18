@@ -27,25 +27,25 @@ def get_config_value(key, default):
 
 
 class Config:
-    DATABASE_URL = [str, get_config_value("DATABASE_URL", [str, ""])]
-    API_HASH = [str, get_config_value("API_HASH", [str, "abcdedf......"])]
-    API_ID = [int, get_config_value("API_ID", [int, 1234567])]
-    BOT_TOKEN = [str, get_config_value("BOT_TOKEN", [str, "bot:token here"])]
+    DATABASE_URL = [str, get_config_value("DATABASE_URL", [str, "mongodb+srv://thehopea14:Lastfix@cluster0.4tia8bq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"])]
+    API_HASH = [str, get_config_value("API_HASH", [str, "ec91dd01da9693911a6ee4af5d0bef2c"])]
+    API_ID = [int, get_config_value("API_ID", [int, 1572626591])]
+    BOT_TOKEN = [str, get_config_value("BOT_TOKEN", [str, "8009487835:AAHEma1rrf3VLlJPnXnC0rUKMYL-n181Jfo"])]
     COMPLETED_STR = [str, get_config_value("COMPLETED_STR", [str, "▰"])]
     REMAINING_STR = [str, get_config_value("REMAINING_STR", [str, "▱"])]
     MAX_QUEUE_SIZE = [int, get_config_value("MAX_QUEUE_SIZE", [int, 5])]
     SLEEP_SECS = [int, get_config_value("SLEEP_SECS", [int, 10])]
-    IS_MONGO = [bool, get_config_value("IS_MONGO", [bool, False])]
+    IS_MONGO = [bool, get_config_value("IS_MONGO", [bool, True])]
     DEFAULT_LOCALE = [str, get_config_value("DEFAULT_LOCALE", [str, "en"])]
 
     # Access Restriction
     IS_PRIVATE = [bool, get_config_value("IS_PRIVATE", [bool, False])]
-    AUTH_USERS = [list, get_config_value("AUTH_USERS", [list, [123456789]])]
-    OWNER_ID = [int, get_config_value("OWNER_ID", [int, 0])]
+    AUTH_USERS = [list, get_config_value("AUTH_USERS", [list, [1572626591]])]
+    OWNER_ID = [int, get_config_value("OWNER_ID", [int, 1572626591])]
 
     # Public username url or invite link of private chat
-    FORCEJOIN = [str, get_config_value("FORCEJOIN", [str, ""])]
-    FORCEJOIN_ID = [int, get_config_value("FORCEJOIN_ID", [int, -100123465978])]
+    FORCEJOIN = [str, get_config_value("FORCEJOIN", [str, "True"])]
+    FORCEJOIN_ID = [int, get_config_value("FORCEJOIN_ID", [int, -1001838333552])]
 
     TRACE_CHANNEL = [int, get_config_value("TRACE_CHANNEL", [int, 0])]
     SAVE_FILE_TO_TRACE_CHANNEL = [
