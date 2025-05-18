@@ -10,7 +10,7 @@ class HindiTranslations:
 
     START_MSG = (
         "👋 नमस्ते! मैं **Mesh Rename Bot** हूँ।\n\n"
-        "🌟 ओपन सोर्स: [GitHub](https://github.com/yash-dk/Mesh-RenameBot/tree/master)\n"
+        "🌟 ओपन सोर्स: [TG](https://t.me/Max_Leech_Zone_Update)\n"
         "🚀 आप अपनी खुद की इंस्टेंस डिप्लॉय कर सकते हैं!"
     )
 
