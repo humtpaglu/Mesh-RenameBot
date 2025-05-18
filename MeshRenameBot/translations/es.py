@@ -11,8 +11,8 @@ class SpanishTranslations:
     )
 
     START_MSG = (
-        "👋 ¡Hola! Soy **Mesh Rename Bot**.\n\n"
-        "🌟 Código Abierto: [GitHub](https://github.com/yash-dk/Mesh-RenameBot/tree/master)\n"
+        "👋 ¡Hola! Soy **MAX Rename Bot**.\n\n"
+        "🌟 Código Abierto: [TG](https://t.me/Max_Leech_Zone_Update)\n"
         "🚀 ¡Puedes desplegar tu propia instancia!"
     )
 
