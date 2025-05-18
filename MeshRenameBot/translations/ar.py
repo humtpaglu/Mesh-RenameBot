@@ -8,8 +8,8 @@ class ArabicTranslations:
     WRONG_VALUE_ERROR = "❌ تم إدخال قيمة غير صالحة للمتغير {{ variable_name }}."
 
     START_MSG = (
-        "👋 مرحبًا! أنا **Mesh Rename Bot**.\n\n"
-        "🌟 مفتوح المصدر: [GitHub](https://github.com/yash-dk/Mesh-RenameBot/tree/master)\n"
+        "👋 مرحبًا! أنا **MAX Rename Bot**.\n\n"
+        "🌟 مفتوح المصدر: [TG](https://t.me/Max_Leech_Zone_Update)\n"
         "🚀 يمكنك نشر نسختك الخاصة!"
     )
 
