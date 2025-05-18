@@ -9,8 +9,8 @@ class ChineseTranslations:
     WRONG_VALUE_ERROR = "❌ 为 {{ variable_name }} 变量输入了无效的值。"
 
     START_MSG = (
-        "👋 你好！我是 **Mesh 重命名机器人**。\n\n"
-        "🌟 开源项目: [GitHub](https://github.com/yash-dk/Mesh-RenameBot/tree/master)\n"
+        "👋 你好！我是 **MAX 重命名机器人**。\n\n"
+        "🌟 开源项目: [TG](https://t.me/Max_Leech_Zone_Update)\n"
         "🚀 你可以部署你自己的实例！"
     )
 
